@@ -1,10 +1,55 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 25px;
+}
+
+.dados_importantes{
+    background-color: rgb(253,252,220);
+    font-family: fantasy;
+    font-style: oblique;
+}
+
+.descricao {
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.lista {
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    background-color: rgb(240,113,103);
+}
+
+.final {
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+}
+
 #imagem_anna {
     border-radius: 15px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .imagem_logo {
     border: 2px solid black;
     border-radius: 15px;
     display: block;
     margin: 0 auto;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body {
+    background-color: rgb(254, 217, 183);
+
 }
