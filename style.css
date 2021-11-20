@@ -1,0 +1,15 @@
+#imagem_anna {
+    border-radius: 15px;
+}
+.imagem_logo {
+    border: 2px solid black;
+    border-radius: 15px;
+    align: center;
+   
+}
+
+div {
+
+    background-color: black;
+    color: aquamarine;
+}
