@@ -1,6 +1,8 @@
-<h1 align="left">Requisitos</h1>
+<h1 align="left">HTML & CSS - Estruturas de página</h1>
 
-<h2 align="left">Seu Portfólio Web deve ter as seguintes informações:</h2>
+<h2 align="left">Requisitos</h2>
+
+<h3 align="left">Seu Portfólio Web deve ter as seguintes informações:</h3>
 
  - Seu nome completo;
  
@@ -17,3 +19,15 @@
  - Partes do seu portfólio destacadas com negrito e/ou itálico;
  
  - Um índice com links internos para as diferentes seções do seu portfólio.
+
+<h1 align="left">HTML & CSS - Primeiros passos em CSS</h1>
+
+<h3 align="left">Seu Portfólio Web deve ser estilizado usando as informações a seguir:</h3>
+
+ - Defina fontes diferentes para o seu nome e para a descrição que você criou;
+ 
+ - Defina uma cor base de background do seu Portfólio Web ;
+
+ - Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
+ 
+ - Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
